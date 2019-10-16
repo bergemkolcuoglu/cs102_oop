@@ -1,4 +1,4 @@
-# cs102_oop
+# Object-Oriented Programming
 Retail Management System Project
 
 ![1](https://user-images.githubusercontent.com/43249333/66851329-31fe1480-ef83-11e9-95f3-1a41a6f6a565.png)
